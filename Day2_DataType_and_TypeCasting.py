@@ -2,7 +2,7 @@
 
 a = 2 # int 
 b = "Krish" #string
-m = 2.2
+
 
 c=type(a)
 d=type(b)
