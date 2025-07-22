@@ -1,0 +1,3 @@
+login (3 attemot) , using conditon
+for loop (normal printing , printing from list )
+conditons (if else , elif etc)
